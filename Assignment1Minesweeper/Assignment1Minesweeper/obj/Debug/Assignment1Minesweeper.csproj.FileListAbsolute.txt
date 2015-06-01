@@ -1,0 +1,5 @@
+C:\Users\Kenneth\Desktop\Summer 2015\CS 3280 C#\Assignment 1\Assignment1Minesweeper\Assignment1Minesweeper\bin\Debug\Assignment1Minesweeper.exe.config
+C:\Users\Kenneth\Desktop\Summer 2015\CS 3280 C#\Assignment 1\Assignment1Minesweeper\Assignment1Minesweeper\bin\Debug\Assignment1Minesweeper.exe
+C:\Users\Kenneth\Desktop\Summer 2015\CS 3280 C#\Assignment 1\Assignment1Minesweeper\Assignment1Minesweeper\bin\Debug\Assignment1Minesweeper.pdb
+C:\Users\Kenneth\Desktop\Summer 2015\CS 3280 C#\Assignment 1\Assignment1Minesweeper\Assignment1Minesweeper\obj\Debug\Assignment1Minesweeper.exe
+C:\Users\Kenneth\Desktop\Summer 2015\CS 3280 C#\Assignment 1\Assignment1Minesweeper\Assignment1Minesweeper\obj\Debug\Assignment1Minesweeper.pdb
